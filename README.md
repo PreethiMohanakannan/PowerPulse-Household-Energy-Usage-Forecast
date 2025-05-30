@@ -1,11 +1,11 @@
 # "PowerPulse-Household-Energy-Usage-Forecast"
 Dataset link -> https://archive.ics.uci.edu/dataset/235/individual+household+electric+power+consumption
 
-⚡ Energy Data Insights
-A quick and insightful look into global energy trends using Python and data science tools. Visualize, analyze, and discover patterns in energy consumption, production, and more!
-
 🔍 What's Inside?
-    📈 Trend analysis of energy consumption over time
+
+ 📈 Trend analysis of energy consumption over time using Python and data science tools. Visualize, analyze, and discover patterns in energy consumption, production, and more!
+
+
 
 🚀 Features
     
